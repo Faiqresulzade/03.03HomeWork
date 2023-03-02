@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\bin\Debug\net6.0\ArrarTask1.exe
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\bin\Debug\net6.0\ArrarTask1.deps.json
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\bin\Debug\net6.0\ArrarTask1.runtimeconfig.json
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\bin\Debug\net6.0\ArrarTask1.dll
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\bin\Debug\net6.0\ArrarTask1.pdb
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.AssemblyInfo.cs
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.dll
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\refint\ArrarTask1.dll
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.pdb
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ArrarTask1.genruntimeconfig.cache
+C:\Users\Honor\Desktop\03.03.2023\ArrarTask1\ArrarTask1\obj\Debug\net6.0\ref\ArrarTask1.dll
